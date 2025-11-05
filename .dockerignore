@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+token.json
+credentials.json
+*.db
+*.sqlite3
+*.log
+*.DS_Store
+.vscode
+.idea
+*.swp
